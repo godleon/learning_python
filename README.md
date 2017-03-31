@@ -26,3 +26,9 @@ Tools
 =====
 
 - [[Python] 使用 Visual Studio Code 作為開發環境](http://oranwind.org/python-vscode/)
+
+
+References
+==========
+
+- [Python 必備良藥 - virtualenv | Faith in Code](https://faithincode.tech/2016/03/10/virtualenv/)
