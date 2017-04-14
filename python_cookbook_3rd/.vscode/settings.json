@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "./venv3.5/bin/python3.5", 
+    "python.autoComplete.extraPaths": [
+        "./venv3.5/lib/python3.5",
+        "./venv3.5s/lib/python3.5/site-packages"
+    ]
+}
